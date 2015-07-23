@@ -6,3 +6,5 @@ Chinese Wiki of Kaldi, Kaldi维基的中文翻译主站。
 
 源网站见：www.kaldi.sf.net
 同步更新博客：http://blog.csdn.net/wbgxx333
+
+## This project resumed at https://www.gitbook.com/book/shiweipku/chinese-doc-of-kaldi/
